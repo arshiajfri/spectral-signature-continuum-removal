@@ -152,6 +152,8 @@ The `plot_analysis()` method generates three subplots:
 2. **Spectrum with Convex Hull**: Original spectrum overlaid with the computed convex hull
 3. **Continuum-Removed Spectrum**: The final result after continuum removal
 
+<img width="654" height="795" alt="Screenshot 2025-10-31 at 16 17 25" src="https://github.com/user-attachments/assets/0444f92e-af31-4c28-a862-7e81bc3806d2" />
+
 ## Dataset
 
 The project uses the **Cuprite** hyperspectral dataset, which includes:
