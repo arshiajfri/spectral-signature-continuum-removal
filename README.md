@@ -29,9 +29,6 @@ Project1/
 │   │   ├── #1 Alunite_m.jpg           # Reference images
 │   │   ├── #2 Andradite_m.jpg
 │   │   └── ... (other mineral samples)
-│   ├── Cuprite_f970619t01p02_r02_sc03.a.rfl.mat
-│   └── CupriteS1_R188.mat
-└── __pycache__/                        # Python cache (auto-generated)
 ```
 
 ## Requirements
