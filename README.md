@@ -1,4 +1,4 @@
-# Spectral Signature Continuum Removal Project
+# Spectral Signature Continuum Removal
 
 ## Overview
 
