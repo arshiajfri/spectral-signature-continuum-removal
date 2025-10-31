@@ -22,7 +22,7 @@ Spectral Signature Continuum Removal/
 ├── continuum_removal/                  # ContinuumRemoval module directory
 │   ├── continuum_removal.py           # Main ContinuumRemoval class module
 │   └── Main.ipynb                     # Module notebook sample usage
-├── Data/                               # Data directory
+├── SampleData/                               # Data directory
 │   ├── groundTruth_Cuprite_end12/      # Ground truth data directory
 │   │   ├── groundTruth_Cuprite_nEnd12.mat  # Spectral data file
 │   │   ├── #1 Alunite_m.jpg           # Reference images
