@@ -17,12 +17,11 @@ The convex hull method computes the upper envelope of the spectral signature and
 ## Project Structure
 
 ```
-Project1/
+Spectral Signature Continuum Removal/
 ├── README.md                           # This file
-├── Main.ipynb                          # Jupyter notebook for analysis
 ├── continuum_removal/                  # ContinuumRemoval module directory
 │   ├── continuum_removal.py           # Main ContinuumRemoval class module
-│   └── Main.ipynb                     # Module notebook (if applicable)
+│   └── Main.ipynb                     # Module notebook sample usage
 ├── Data/                               # Data directory
 │   ├── groundTruth_Cuprite_end12/      # Ground truth data directory
 │   │   ├── groundTruth_Cuprite_nEnd12.mat  # Spectral data file
