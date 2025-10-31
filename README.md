@@ -188,10 +188,6 @@ This continuum removal implementation can be used for:
 - The convex hull method is a standard approach for continuum normalization
 - Cuprite dataset is a commonly used benchmark in hyperspectral analysis
 
-## Author
-
-UTMS Semester 3, Pattern Recognition Course - Project 1
-
 ## License
 
 Educational use
@@ -200,13 +196,4 @@ Educational use
 
 This is an academic project for learning purposes.
 
-## Future Enhancements
-
-Potential improvements:
-- [ ] Add support for other continuum removal methods (polynomial fitting, etc.)
-- [ ] Batch processing capabilities for large datasets
-- [ ] Custom plotting options and styling
-- [ ] Statistical analysis of absorption features
-- [ ] Export functionality for processed spectra
-- [ ] GUI interface for interactive analysis
 
